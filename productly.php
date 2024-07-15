@@ -247,5 +247,6 @@
     </footer>
 
 </body>
+       <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script src="productly.js"></script>
 </html>
